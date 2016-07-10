@@ -1,0 +1,22 @@
+Name of Quantlet: SMF01HaltonSeq
+
+Published in:     Statistics of Financial Markets I
+
+Description:    Simulate n random numbers with base b between 0 and 1 using Halton sequence 
+    
+
+Used Algorithm:    Halton Sequence
+
+Keywords:       simulation, base, halton sequence 
+ 
+
+
+Author:           ZhangKaiqi, GuoLiu, ZengLi, NiePei
+Submitted:        2016/07/09
+
+Input:
+- b     : Base
+- n     : The number of random numbers 
+
+
+Output:    n random numbers between 0 and 1 with base b
