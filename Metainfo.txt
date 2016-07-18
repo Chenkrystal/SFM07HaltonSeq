@@ -1,7 +1,7 @@
 
 Name of Quantlet: SMF07HaltonSeq
 
-Published in: Statistics of Financial Markets I
+Published in: Statistics of Financial Markets 
 
 Description: Simulate n random numbers with base b between 0 and 1 using Halton sequence
 
@@ -9,7 +9,7 @@ Keywords: simulation, base, halton sequence, random number
 
 Author: ZhangKaiqi, GuoLiu, ZengLi, NiePei
 
-Submitted:  2016/07/16
+Submitted:  Mon, July 18 2016 by SFM.Group07
 
 Input: 
 - b : Base
